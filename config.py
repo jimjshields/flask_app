@@ -4,7 +4,7 @@
 class Config(object):
 	DEBUG = False
 	TESTING = False
-	DATABASE = 'db/imdb_top_250.db'
+	DATABASE = 'db/test'
 	SECRET_KEY = 'development key'
 	USERNAME = 'admin'
 	PASSWORD = 'default'
